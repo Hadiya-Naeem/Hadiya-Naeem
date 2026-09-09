@@ -2,9 +2,11 @@
 
 ## 💫 About Me
 ### 🎨 Graphic Designer | 💻 Front-End Developer
--💻 I'm currently learning Front-End Development and building projects to improve my coding and design skills.
--🌱 I'm passionate about creating clean, creative, and user-friendly websites.
--⚡ I started with graphic design and now I'm turning my creativity into websites. 💻✨
+I'm a beginner Front-End Web Developer and Graphic Designer from Pakistan.
+
+I'm currently learning and improving my skills in web development, UI design, and graphic design.
+
+⚡ I started with graphic design and now I'm turning my creativity into websites. 💻✨
 
 ## 🛠️ Tools & Technologies
 ### Web Development
